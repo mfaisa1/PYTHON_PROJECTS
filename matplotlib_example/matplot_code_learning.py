@@ -6,7 +6,7 @@ f_count_y=[100,200,400,50,18,19,17]
 s_count_y=[10,20,40,5,1,9,7]
 x_indexes=np.arange(len(hours_x))
 width=.25
-echo "capture changes"
+#echo "capture changes"
 plt.style.use('fivethirtyeight')
 #plt.plot(hours_x,f_count_y, label='count on first day');
 #plt.plot(hours_x,s_count_y, label='count on second day');
